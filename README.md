@@ -113,7 +113,7 @@ DataModelCache/
 Temporary files
 *.tmp
 
-# Logs
+Logs
 *.log
 
 
