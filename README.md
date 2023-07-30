@@ -73,7 +73,7 @@ Debug logs
 
 Project3:
 
-# Design tool artifacts
+Design tool artifacts
 design_tool/
 design_file.psd
 
@@ -81,7 +81,7 @@ Exported files
 exports/
 design_file_export.png
 
-# Temporary files
+Temporary files
 temp/
 *.temp
 
