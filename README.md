@@ -116,4 +116,4 @@ Temporary files
 Logs
 *.log
 
-
+Storage of credentials and sensitive information
