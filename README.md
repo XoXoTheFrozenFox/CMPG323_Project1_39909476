@@ -44,3 +44,76 @@ DEVELOPMENT: : This branch primarily serves as the main development area for wor
 
 e central objective of a .gitignore file is to prevent non-essential files and directories, which are not directly related to the project's source code, from being tracked by Git. Moreover, it aids in avoiding conflicts that may arise from tracking files better left out, contributing to a smoother collaborative development process.
 
+The following git-ignore formats given are proposed git-ignore files I found online but will be updated when I actually start doing the projects:
+
+Project2:
+
+# .NET Core build output
+bin/
+obj/
+
+# Visual Studio files
+.vs/
+*.suo
+*.user
+*.csproj.user
+
+# NuGet packages
+*.nuget.props
+*.nuget.targets
+packages/
+
+# Build results
+*.dll
+*.exe
+*.pdb
+
+# Debug logs
+*.log
+
+Project3:
+
+# Design tool artifacts
+design_tool/
+design_file.psd
+
+# Exported files
+exports/
+design_file_export.png
+
+# Temporary files
+temp/
+*.temp
+
+# IDE-specific files
+.idea/
+
+Project4:
+
+# UiPath project files
+project.json
+project.settings
+Main.xaml
+
+# NuGet packages
+packages/
+
+# Logs
+*.log
+
+Project 5:
+
+# Power BI output files
+*.pbix
+*.pbit
+
+# Data model cache
+DataModelCache/
+
+# Temporary files
+*.tmp
+
+# Logs
+*.log
+
+
