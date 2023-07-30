@@ -48,27 +48,27 @@ The following git-ignore formats given are proposed git-ignore files I found onl
 
 Project2:
 
-# .NET Core build output
+.NET Core build output
 bin/
 obj/
 
-# Visual Studio files
+Visual Studio files
 .vs/
 *.suo
 *.user
 *.csproj.user
 
-# NuGet packages
+NuGet packages
 *.nuget.props
 *.nuget.targets
 packages/
 
-# Build results
+Build results
 *.dll
 *.exe
 *.pdb
 
-# Debug logs
+Debug logs
 *.log
 
 Project3:
@@ -77,7 +77,7 @@ Project3:
 design_tool/
 design_file.psd
 
-# Exported files
+Exported files
 exports/
 design_file_export.png
 
@@ -85,32 +85,32 @@ design_file_export.png
 temp/
 *.temp
 
-# IDE-specific files
+IDE-specific files
 .idea/
 
 Project4:
 
-# UiPath project files
+UiPath project files
 project.json
 project.settings
 Main.xaml
 
-# NuGet packages
+NuGet packages
 packages/
 
-# Logs
+Logs
 *.log
 
 Project 5:
 
-# Power BI output files
+Power BI output files
 *.pbix
 *.pbit
 
-# Data model cache
+Data model cache
 DataModelCache/
 
-# Temporary files
+Temporary files
 *.tmp
 
 # Logs
