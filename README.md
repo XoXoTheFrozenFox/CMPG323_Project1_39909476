@@ -24,6 +24,7 @@ This diagram illustrates the integration between the projects and their respecti
 There are no lines that indicate integration between repositories because of code being moved as needed.
 
 BRANCHING:
+
 Project1:
 
 Doesn't need a branch because of the project being administrive and more of a detailing for the project.
