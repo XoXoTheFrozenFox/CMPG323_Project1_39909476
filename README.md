@@ -116,4 +116,18 @@ Temporary files
 Logs
 *.log
 
-Storage of credentials and sensitive information
+-Storage of credentials and sensitive information
+
+The following strategies will be used to store credentials and sensitive information
+
+Configuration Files: Use of configiration files like YAML or JSON files to store sensitive information and then later exclude them with a .gitignore file.
+
+Version Control Exclusion: Ensure that configuration files containing sensitive data are added to the .gitignore file.
+
+Restrict access: Restrict access to certain sensitive data to only authorized personel(in this instance I am the "authorized personel").
+
+Audit and Rotation: Regularly audit and review stored credentials. 
+
+Avoid Hardcoding Credentials: Never hardcode passwords, API keys, or any sensitive data directly into the source code.
+
+
