@@ -130,4 +130,12 @@ Audit and Rotation: Regularly audit and review stored credentials.
 
 Avoid Hardcoding Credentials: Never hardcode passwords, API keys, or any sensitive data directly into the source code.
 
+Citations
+Silva, D., Tsantalis, N. and Valente, M.T., 2016, November. Why we refactor? confessions of github contributors. In Proceedings of the 2016 24th acm sigsoft international symposium on foundations of software engineering (pp. 858-870).
+Nakazawa, S. and Tanaka, T., 2015, August. Prototype of kanban tool and preliminary evaluation of visualizing method for task assignment. In 2015 International Conference on Computer Application Technologies (pp. 48-49). IEEE.
+Abrahamsson, P., Salo, O., Ronkainen, J. and Warsta, J., 2017. Agile software development methods: Review and analysis. arXiv preprint arXiv:1709.08439.
+Al-Saqqa, S., Sawalha, S. and AbdelNabi, H., 2020. Agile software development: Methodologies and trends. International Journal of Interactive Mobile Technologies, 14(11).
+Da Silva, F.Q., Costa, C., Franca, A.C.C. and Prikladinicki, R., 2010, August. Challenges and solutions in distributed software development project management: A systematic literature review. In 2010 5th IEEE International Conference on Global Software Engineering (pp. 87-96). IEEE.
+Vice Dev. (2020). Project management with Basic Kanban board on GitHub.. [Online Video]. 26 September 2020. Available from: https://www.youtube.com/watch?v=G2VKydGXk54. [Accessed: 5 August 2023].
+freeCodeCamp.org. (2020). Git and GitHub for Beginners - Crash Course. [Online Video]. 28 May 2020. Available from: https://www.youtube.com/watch?v=RGOj5yH7evk. [Accessed: 2 August 2023].
 
