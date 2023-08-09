@@ -146,6 +146,7 @@ Never hardcode passwords, API keys, or any sensitive data directly into the sour
 ## Burndown Chart
 
 ![image](https://github.com/XoXoTheFrozenFox/CMPG_323_OVERVIEW_39909476/assets/104361159/7405ce28-dc77-4db6-befa-d6b9d4cc4c86)
+
 This burndown chart was drawn with all the information into the projects tab up until 9 August 2023 15:28.
 
 ## Citations
