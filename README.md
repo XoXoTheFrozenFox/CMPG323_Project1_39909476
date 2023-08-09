@@ -19,7 +19,7 @@ If code from the previous repositories is needed, it will be copied over to the 
 ## DIAGRAM_REPRESENTATION:
 
 This diagram illustrates the integration between the projects and their respective repository contexts:
-![Untitled Diagram (2)](https://github.com/XoXoTheFrozenFox/CMPG_323_OVERVIEW_39909476/assets/104361159/f8712671-a24b-47cc-88b1-34d9bdc239d2)
+![Untitled Diagram (1)](https://github.com/XoXoTheFrozenFox/CMPG_323_OVERVIEW_39909476/assets/104361159/2b7bacdf-c453-4251-bbe5-b13c45355f1c)
 
 There are no lines that indicate integration between repositories because of code being moved as needed.
 
