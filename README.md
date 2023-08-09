@@ -143,6 +143,11 @@ Regularly audit and review stored credentials.
 
 Never hardcode passwords, API keys, or any sensitive data directly into the source code.
 
+## Burndown Chart
+
+![image](https://github.com/XoXoTheFrozenFox/CMPG_323_OVERVIEW_39909476/assets/104361159/7405ce28-dc77-4db6-befa-d6b9d4cc4c86)
+This burndown chart was drawn with all the information into the projects tab up until 9 August 2023 15:28.
+
 ## Citations
 Silva, D., Tsantalis, N. and Valente, M.T., 2016, November. Why we refactor? confessions of github contributors. In Proceedings of the 2016 24th acm sigsoft international symposium on foundations of software engineering (pp. 858-870).
 
