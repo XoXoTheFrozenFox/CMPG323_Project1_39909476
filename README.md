@@ -1,7 +1,7 @@
 # CMPG_323_OVERVIEW_39909476
 ## REPOSITORIES
 
-**Bug**
+** Bug **
 
 This repository will be used for Project 1.
 
