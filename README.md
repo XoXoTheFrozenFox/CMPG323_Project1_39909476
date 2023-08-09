@@ -1,6 +1,8 @@
 # CMPG_323_OVERVIEW_39909476
 ## REPOSITORIES
 
+**Bug**
+
 This repository will be used for Project 1.
 
 All the other projects from 2-5 will have a separate repository created using a naming convention as follows: "CMPG323 <project_number> - <student_number>".
