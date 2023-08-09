@@ -149,6 +149,8 @@ Never hardcode passwords, API keys, or any sensitive data directly into the sour
 
 This burndown chart was drawn with all the information into the projects tab up until 9 August 2023 15:28.
 
+The sharp curf you see at sprint 2 is because of the many tasks planned and completed in sprint 2.
+
 ## Citations
 Silva, D., Tsantalis, N. and Valente, M.T., 2016, November. Why we refactor? confessions of github contributors. In Proceedings of the 2016 24th acm sigsoft international symposium on foundations of software engineering (pp. 858-870).
 
