@@ -166,3 +166,6 @@ Vice Dev. (2020). Project management with Basic Kanban board on GitHub.. [Online
 
 freeCodeCamp.org. (2020). Git and GitHub for Beginners - Crash Course. [Online Video]. 28 May 2020. Available from: https://www.youtube.com/watch?v=RGOj5yH7evk. [Accessed: 2 August 2023].
 
+## Update project2
+
+Completed the restAPI without security. The project went very well overall. I was not able to implement security because of too little time. Overall I am happy with my results and excited for the next project. In my free time I also did many training. My training was based on devops, APIs and POSTMAN API interactions.
