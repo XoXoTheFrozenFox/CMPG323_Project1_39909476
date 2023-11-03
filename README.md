@@ -169,3 +169,12 @@ freeCodeCamp.org. (2020). Git and GitHub for Beginners - Crash Course. [Online V
 ## Update project2
 
 Completed the restAPI without security. The project went very well overall. I was not able to implement security because of too little time. Overall I am happy with my results and excited for the next project. In my free time I also did many training. My training was based on devops, APIs and POSTMAN API interactions.
+
+
+## Update project3
+
+Went very well, did tier 2 implementation with generic objects and repositories, didn't know how to do tier 3 though.
+
+## Update project4
+
+Did the project in little time. Was really difficult but I learned a lot.
